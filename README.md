@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 📝 Blog
 
 - [My Blog](https://plantepro.github.io/)
