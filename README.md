@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 📝 Blog
+
+- [My Blog](https://plantepro.github.io/)
 
 <!--
 **plantepro/plantepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
