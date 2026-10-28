@@ -47,18 +47,75 @@ philosophy: Turn data into insights. Build scalable cloud solutions.
 
 
 
-<h2>🧪 HTML Render Test</h2>
+
+<h2>🚀 Ecosystem</h2>
 
 <table>
   <tr>
-    <td align="center">
+    <!-- Cloud & AWS -->
+    <td width="50%" align="center">
+      <h3>🌐 Cloud &amp; AWS</h3>
+      <a href="https://github.com/plantepro">
+        <img src="https://img.shields.io/badge/VISIT-GitHub-555555?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit GitHub"/>
+      </a>
+      <a href="https://docs.aws.amazon.com/">
+        <img src="https://img.shields.io/badge/PORTAL-AWS-0875C9?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS Portal"/>
+      </a>
+      <ul align="left">
+        <li>AWS cloud architecture and infrastructure</li>
+        <li>S3, Lambda, Glue and Redshift</li>
+        <li>Cloud deployment and automation</li>
+      </ul>
+    </td>
+
+    <!-- Data Engineering -->
+    <td width="50%" align="center">
       <h3>📊 Data Engineering</h3>
-      <a href="https://github.com/xuan996-labo">
-        <img src="https://img.shields.io/badge/VISIT-GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/>
+      <a href="https://github.com/plantepro">
+        <img src="https://img.shields.io/badge/VISIT-GitHub-555555?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit GitHub"/>
       </a>
-      <a href="https://github.com/search?q=data+engineering&type=repositories">
-        <img src="https://img.shields.io/badge/PROJECTS-Explore-DF6D00?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+      <a href="https://github.com/search?q=data+engineering+python+sql+pyspark&amp;type=repositories">
+        <img src="https://img.shields.io/badge/PROJECTS-Explore-DF6D00?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Explore Data Projects"/>
       </a>
+      <ul align="left">
+        <li>ETL/ELT and data integration</li>
+        <li>SQL, Python and PySpark</li>
+        <li>Data modeling and scalable pipelines</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- IoT & Development -->
+    <td width="50%" align="center">
+      <h3>🛠️ IoT &amp; Development</h3>
+      <a href="https://github.com/plantepro">
+        <img src="https://img.shields.io/badge/VISIT-GitHub-555555?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit GitHub"/>
+      </a>
+      <a href="https://github.com/search?q=python+mqtt+iot&amp;type=repositories">
+        <img src="https://img.shields.io/badge/PROJECTS-IoT-0AA6D6?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="IoT Projects"/>
+      </a>
+      <ul align="left">
+        <li>Python applications and MQTT</li>
+        <li>Sensor data collection and processing</li>
+        <li>Database integration and automation</li>
+      </ul>
+    </td>
+
+    <!-- BI & Analytics -->
+    <td width="50%" align="center">
+      <h3>📈 BI &amp; Analytics</h3>
+      <a href="https://github.com/plantepro">
+        <img src="https://img.shields.io/badge/VISIT-GitHub-555555?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Visit GitHub"/>
+      </a>
+      <a href="https://learn.microsoft.com/en-us/power-bi/">
+        <img src="https://img.shields.io/badge/PORTAL-Power_BI-D9A300?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white" alt="Power BI Portal"/>
+      </a>
+      <ul align="left">
+        <li>Power BI, Tableau and QuickSight</li>
+        <li>Data visualization and KPI reporting</li>
+        <li>Analytics-driven decision making</li>
+      </ul>
     </td>
   </tr>
 </table>
