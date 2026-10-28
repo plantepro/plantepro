@@ -141,3 +141,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2>🧪 HTML Render Test</h2>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>📊 Data Engineering</h3>
+      <a href="https://github.com/xuan996-labo">
+        <img src="https://img.shields.io/badge/VISIT-GitHub-555555?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/>
+      </a>
+      <a href="https://github.com/search?q=data+engineering&type=repositories">
+        <img src="https://img.shields.io/badge/PROJECTS-Explore-DF6D00?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
