@@ -62,7 +62,7 @@ philosophy: Turn data into insights. Build scalable cloud solutions.
 
 ## 📝 Blog
 
-- [My Blog]([https://plantepro.github.io](https://plantepro.github.io/PersonalPortfolioWeb/blog)/)
+- [My Blog](https://plantepro.github.io/PersonalPortfolioWeb/blog/)
 
 <!--
 **plantepro/plantepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
