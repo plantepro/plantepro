@@ -31,14 +31,11 @@
 <h3>~/whoami</h3>
 
 <pre>
-name:       Data & Cloud Engineer
-role:       Data Engineering | Cloud Computing | BI & Analytics
+role:       Data Engineering | BI & Analytics | Cloud Computing 
 background: Engineer
 focus:      Cloud-native data pipelines, ETL/ELT, data modeling
 stack:      AWS, S3, Glue, Lambda, Redshift, SQL, Python, PySpark
-analytics:  Power BI, Tableau, QuickSight, Looker
-interests:  IoT data, scalable architectures, automation, AI/ML
-philosophy: Turn data into insights. Build scalable cloud solutions.
+analytics:  Power BI, Tableau, QuickSight, Looker 
 </pre>
 
 
