@@ -13,7 +13,7 @@
   <a href="https://github.com/plantepro">
     <img src="https://img.shields.io/badge/GitHub-Profile-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="[https://www.linkedin.com/](https://plantepro.github.io/PersonalPortfolioWeb/)">
+  <a href="[https://plantepro.github.io/PersonalPortfolioWeb/](https://plantepro.github.io/PersonalPortfolioWeb/)">
     <img src="https://img.shields.io/badge/Personal%20Portfolio-Visit-6B8E9B?style=for-the-badge&logo=globe&logoColor=white" alt="Personal Portfolio" />
   </a>
 </p>
